@@ -1,0 +1,35 @@
+h2 {
+font-size: 35px;
+color: darkviolet;
+}
+h1 {
+    font-size: 40px;
+    color: yellowgreen;
+}
+** {
+    background-color: grey;
+}
+h3 {
+    font: size 25px;
+    color: darkslategray;
+}
+.number-one {
+    color: lavender ;
+
+}
+.number-two {
+    color: steelblue;
+}
+.number-three {
+    color:bisque;
+}
+input[type="text"] {
+    background-color: fuchsia;
+}
+input[type="email"] {
+    background-color:orchid;
+}
+input[type="number"] {
+    background-color: azure;
+}
+    
